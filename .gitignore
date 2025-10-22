@@ -216,3 +216,6 @@ __marimo__/
 .streamlit/secrets.toml
 
 *.pt
+*.pth
+reward_weight/git-large-vqav2
+reward_weight/ORM-T2I-R1
